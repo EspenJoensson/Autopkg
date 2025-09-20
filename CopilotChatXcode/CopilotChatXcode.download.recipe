@@ -53,8 +53,12 @@
                 <dict>
                     <key>input_plist_path</key>
                     <string>%pathname%/GitHub Copilot for Xcode.app/Contents/Info.plist</string>
-                    <key>plist_version_key</key>
-                    <string>CFBundleShortVersionString</string>
+                    <key>CFBundleShortVersionString</key>
+                    <string>version</string>
+                    <key>CFBundleIdentifier</key>
+                    <string>bundleid</string>
+                    <key>CFBundleName</key>
+                    <string>app_name</string>
                 </dict>
                 <key>Processor</key>
                 <string>Versioner</string>

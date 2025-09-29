@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Packages the latest version of Copilot for Xcode</string>
+    <string>Packages the latest version of Positrong</string>
     <key>Identifier</key>
     <string>com.github.EspenJ.pkg.Positron</string>
     <key>Input</key>

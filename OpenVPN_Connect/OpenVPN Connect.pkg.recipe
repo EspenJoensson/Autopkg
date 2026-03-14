@@ -14,7 +14,7 @@
         <string>arm64</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.dataJAR-recipes.download.OpenVPN Connect Client 3</string>
+    <string>com.github.EspenJ.download.OpenVPN</string>
     <key>Process</key>
     <array>
         <dict>

@@ -81,6 +81,17 @@
             <key>Processor</key>
             <string>PlistReader</string>
         </dict>
+        <dict>
+            <key>Processor</key>
+            <string>FileMover</string>
+            <key>Arguments</key>
+            <dict>
+                <key>source</key>
+                <string>%RECIPE_CACHE_DIR%/OpenVPN_%ARCH%.pkg</string>
+                <key>target</key>
+                <string>%RECIPE_CACHE_DIR%/OpenVPN_%ARCH%_%version%.pkg</string>
+            </dict>
+        </dict>
 	</array>
 </dict>
 </plist>
